@@ -1,0 +1,4258 @@
+{
+  "errors": [],
+  "data": [
+    {
+      "siteIndex": 0,
+      "siteName": "应县木塔",
+      "chapters": [
+        {
+          "chapterIndex": 0,
+          "id": "yingxian-01-liang-sicheng",
+          "title": "梁思成与木塔的相遇",
+          "time": "00:00-02:11",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-detail.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-fogong-pagoda.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-detail.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-sketch.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-detail.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-sketch.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-detail.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 1,
+          "id": "yingxian-02-basic-profile",
+          "title": "木塔基本档案",
+          "time": "02:11-03:15",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yingxian-base-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-profile-2020.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-fogong-pagoda.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-sketch.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-sketch.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-sketch.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yingxian-base-crop.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-sketch.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 2,
+          "id": "yingxian-03-wood-pagoda-terms",
+          "title": "纯木、楼阁式与塔的来源",
+          "time": "03:15-06:38",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-profile-2020.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/songyue-pagoda-dense-eaves.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/stupa-kirti-gonpa.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/songyue-pagoda-dense-eaves.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 3,
+          "id": "yingxian-04-base-body-spire",
+          "title": "塔基、塔身与塔刹",
+          "time": "06:38-09:10",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-profile-2020.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-detail.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-profile-2020.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 4,
+          "id": "yingxian-05-liao-construction",
+          "title": "辽代建塔背景",
+          "time": "09:10-10:20",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/liao-circuits.png"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/liao-circuits.png"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-profile-2020.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-fogong-pagoda.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yingxian-base-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yingxian-base-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-detail.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yingxian-base-crop.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 5,
+          "id": "yingxian-06-repair-and-tilt",
+          "title": "历代修缮与倾斜引入",
+          "time": "10:20-12:31",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-eaves-2020.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-profile-2020.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-sketch.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 6,
+          "id": "yingxian-07-structure-earthquake",
+          "title": "结构体系与抗震逻辑",
+          "time": "12:31-16:01",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-fogong-pagoda.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-structure-oblique.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-sketch.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 7,
+          "id": "yingxian-08-liao-style-buddhist-space",
+          "title": "辽构体系与佛像空间",
+          "time": "16:01-18:49",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yingxian-buddha-face-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-shakyamuni-front.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-shakyamuni-low-angle.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-sketch.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-sketch.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yingxian-buddha-face-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yingxian-buddha-face-crop.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yingxian-buddha-face-crop.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 8,
+          "id": "yingxian-09-damage-structural-risk",
+          "title": "战乱损伤与结构病害",
+          "time": "18:49-22:02",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-profile-2020.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-eaves-2020.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-sketch.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yingxian-structure-oblique.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/dingzhou-liaodi-pagoda.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 9,
+          "id": "yingxian-10-conservation-dilemma",
+          "title": "维修困境与保护呼吁",
+          "time": "22:02-24:46",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yingxian-eaves-2020.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-sketch.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-eaves-2020.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-shakyamuni-front.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yingxian-structure-oblique.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yingxian-fogong-pagoda.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yingxian-eaves-2020.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 10,
+          "id": "yingxian-11-plaques",
+          "title": "匾额与历史人物",
+          "time": "24:46-27:21",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yingxian-plaque-ming-wanli.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-profile-2020.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-plaque-ming-wanli.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-detail.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yingxian-plaque-ming-wanli.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yingxian-plaque-ming-wanli.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yingxian-plaque-ming-wanli.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yingxian-plaque-ming-wanli.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 11,
+          "id": "yingxian-12-watchtower-hypothesis",
+          "title": "军事瞭望猜想",
+          "time": "27:21-30:19",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/liao-circuits.png"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/liao-circuits.png"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/dingzhou-liaodi-pagoda.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-profile-2020.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/liao-circuits.png"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/liao-circuits.png"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/liao-circuits.png"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/liao-circuits.png"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 12,
+          "id": "yingxian-13-lightning-myth",
+          "title": "避雷误解",
+          "time": "30:19-32:44",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-profile-2020.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-eaves-2020.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-pagoda-detail.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yingxian-spire-crop.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 13,
+          "id": "yingxian-14-ending",
+          "title": "保护感怀与结尾",
+          "time": "32:44-33:50",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-profile-2020.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-eaves-2020.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yingxian-fogong-pagoda.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yingxian-fogong-pagoda.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yingxian-profile-2020.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yingxian-eaves-crop.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "siteIndex": 1,
+      "siteName": "善化寺",
+      "chapters": [
+        {
+          "chapterIndex": 0,
+          "id": "shanhuasi-01-yingbi-origin",
+          "title": "影壁、照壁与萧墙",
+          "time": "00:00-02:04",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-panorama.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-five-dragon-wall-center-crop.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-five-dragon-wall-center-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/shanhuasi-five-dragon-wall-center-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/shanhuasi-five-dragon-wall-center-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/shanhuasi-01-yingbi-origin.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 1,
+          "id": "shanhuasi-02-datong-nine-dragon-wall",
+          "title": "大同九龙壁的规格",
+          "time": "02:04-04:20",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/beihai-nine-dragon-wall.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-panorama.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/beihai-nine-dragon-wall.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-panorama.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/beihai-nine-dragon-wall.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-detail.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-detail.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/beihai-nine-dragon-wall.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 2,
+          "id": "shanhuasi-03-dragon-pattern-and-glaze",
+          "title": "龙纹与琉璃工艺",
+          "time": "04:20-07:35",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-detail.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-detail.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-detail.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-detail.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-detail.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-detail.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/shanhuasi-03-dragon-pattern-and-glaze.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-panorama.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 3,
+          "id": "shanhuasi-04-from-nine-dragon-to-five-dragon",
+          "title": "从九龙壁到善化寺五龙壁",
+          "time": "07:35-09:56",
+          "pageCount": 9,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-detail.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "source-map",
+              "images": [
+                "assets/images/reference/shanhuasi-five-dragon-wall-center-crop.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-five-dragon-wall-center-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-five-dragon-wall-center-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/shanhuasi-five-dragon-wall-center-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "image",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-detail.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen.jpg"
+              ]
+            },
+            {
+              "page": 9,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-panorama.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 4,
+          "id": "shanhuasi-05-history-and-route",
+          "title": "善化寺历史与参观动线",
+          "time": "09:56-12:20",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/shanhuasi-five-dragon-wall-center-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/shanhuasi-five-dragon-wall-center-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/shanhuasi-daxiong-hall.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-hall.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 5,
+          "id": "shanhuasi-06-shanmen-tianwang",
+          "title": "山门与天王殿",
+          "time": "12:20-14:46",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-hall.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/shanhuasi-06-shanmen-tianwang.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 6,
+          "id": "shanhuasi-07-sansheng-roof-and-dougong",
+          "title": "三圣殿屋顶与斗拱",
+          "time": "14:46-16:30",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-dougong-close.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/shanhuasi-daxiong-hall.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/shanhuasi-07-sansheng-roof-and-dougong.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 7,
+          "id": "shanhuasi-08-sansheng-statues",
+          "title": "三圣殿三圣塑像",
+          "time": "16:30-18:04",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-statue.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-statue.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-statue.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-statue.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-statue.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-statue.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/shanhuasi-deva-auspicious.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-hall.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 8,
+          "id": "shanhuasi-09-jin-steles-and-zhu-bian",
+          "title": "金代碑刻与朱弁",
+          "time": "18:04-21:16",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/shanhuasi-zhu-bian-stele.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-zhu-bian-stele.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-zhu-bian-stele.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-zhu-bian-stele.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/shanhuasi-zhu-bian-stele.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-hall-archive.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/shanhuasi-zhu-bian-stele-head.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 9,
+          "id": "shanhuasi-10-daxiong-hall-architecture",
+          "title": "大雄宝殿建筑与五方佛",
+          "time": "21:16-24:43",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "image",
+              "images": [
+                "assets/images/reference/datong-nine-dragon-wall-panorama.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-daxiong-platform-crop.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-daxiong-statue-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-daxiong-statue-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-statue.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/shanhuasi-deva-group.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/shanhuasi-daxiong-central-statue.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 10,
+          "id": "shanhuasi-11-twenty-four-devas",
+          "title": "二十四诸天",
+          "time": "24:43-28:30",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-deva-auspicious.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-deva-hariti.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-deva-group.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/shanhuasi-deva-group.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/shanhuasi-deva-hariti.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/shanhuasi-deva-group.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/shanhuasi-deva-hariti.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 11,
+          "id": "shanhuasi-12-golden-bricks-ending",
+          "title": "金砖地面与历史余音",
+          "time": "28:30-30:38",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-daxiong-platform-crop.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-daxiong-hall.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/shanhuasi-daxiong-hall.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen-roof-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/shanhuasi-daxiong-platform-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/shanhuasi-shanmen.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/shanhuasi-sansheng-hall.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "siteIndex": 2,
+      "siteName": "华严寺",
+      "chapters": [
+        {
+          "chapterIndex": 0,
+          "id": "huayan-01-liao-context-and-origin",
+          "title": "辽金大同与华严寺缘起",
+          "time": "00:00-03:41",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/liao-circuits.png"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/liao-circuits.png"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/liao-circuits.png"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/liao-circuits.png"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/liao-circuits.png"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/liao-circuits.png"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/huayan-upper-postcard.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-1.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 1,
+          "id": "huayan-02-route-and-shanmen",
+          "title": "上寺动线与山门天王",
+          "time": "03:41-05:40",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-2.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-2.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-2.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-2.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-2.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-2.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-3.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-1.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 2,
+          "id": "huayan-03-yaoshi-hall-and-pedestals",
+          "title": "药师殿与须弥座入门",
+          "time": "05:40-07:53",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-3.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-3.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-mural-statues-2024.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-lower-buddha-statues.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-3.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-3.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/huayan-lower-buddha-statues.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/huayan-mural-statues-2024.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 3,
+          "id": "huayan-04-mituo-hall-nine-grades",
+          "title": "弥陀殿与接引九品印",
+          "time": "07:53-09:18",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-3.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-3.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-mural-statues-2024.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-mural-detail-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-3.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/huayan-daxiong-buddha-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/huayan-lower-goddess.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/huayan-mural-statues-2024.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 4,
+          "id": "huayan-05-dougong-baosha-zaojing",
+          "title": "斗拱、抱厦与藻井",
+          "time": "09:18-12:06",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/huayan-pingqi-ceiling-pattern.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-bojia-caisson.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-caisson-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-caisson-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/huayan-caisson-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/huayan-pingqi-ceiling-pattern.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/huayan-upper-main-building.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-3.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 5,
+          "id": "huayan-06-puguangming-huayan-sansheng",
+          "title": "普光明殿与华严三圣",
+          "time": "12:06-14:37",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/huayan-mural-detail-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-3.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-mural-detail-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-lower-goddess.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/huayan-mural-detail-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/huayan-daxiong-buddha-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-3.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/huayan-lower-goddess.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 6,
+          "id": "huayan-07-upper-lower-temple-division",
+          "title": "上下华严寺与明代分寺",
+          "time": "14:37-16:05",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-2.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-lower-front.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-lower-panorama.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-2.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-2.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-2.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/huayan-temple-overview-1.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/huayan-lower-front.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 7,
+          "id": "huayan-08-daxiong-hall-history",
+          "title": "大雄宝殿的战火与重修",
+          "time": "16:05-18:36",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/huayan-upper-main-building.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-upper-main-building.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-upper-main-building.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-upper-main-building.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/huayan-upper-main-building.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/huayan-upper-main-building.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/huayan-daxiong-five-buddhas.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/huayan-daxiong-main-hall.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 8,
+          "id": "huayan-09-daxiong-plaque-and-buddhas",
+          "title": "大雄宝殿匾额与五尊佛",
+          "time": "18:36-21:49",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/huayan-daxiong-buddha-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-couplet-crop.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-couplet-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-daxiong-buddha-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/huayan-daxiong-buddha-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/huayan-daxiong-buddha-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/huayan-upper-main-building.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/huayan-daxiong-five-buddhas.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 9,
+          "id": "huayan-10-twenty-devas-and-pingqi",
+          "title": "二十诸天、壁画与平棊",
+          "time": "21:49-24:25",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/huayan-mural-detail-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-mural-detail-crop.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-mural-detail-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-pingqi-ceiling-pattern.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/huayan-mural-detail-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/huayan-mural-detail-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/huayan-upper-couplet.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/huayan-daxiong-main-hall.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 10,
+          "id": "huayan-11-pagoda-and-bojia-hall-intro",
+          "title": "华严宝塔与薄伽教藏殿入场",
+          "time": "24:25-25:53",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/huayan-lower-front.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-pagoda.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-pagoda.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-lower-front.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/huayan-lower-front.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/huayan-lower-front.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/huayan-lower-panorama.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/huayan-lower-front.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 11,
+          "id": "huayan-12-bojia-dougong-and-statues",
+          "title": "薄伽教藏殿斗拱与三世佛",
+          "time": "25:53-27:32",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/huayan-bojia-central-statues.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-bojia-central-statues.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-bojia-central-statues.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-bojia-central-statues.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/huayan-bojia-central-statues.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/huayan-bojia-central-statues.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/huayan-bodhisattva-full.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/huayan-bojia-caisson.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 12,
+          "id": "huayan-13-oriental-venus-and-liao-art",
+          "title": "东方维纳斯与辽代艺术极致",
+          "time": "27:32-29:41",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "image",
+              "images": [
+                "assets/images/reference/huayan-bojia-bodhisattva-dizang.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-bodhisattva-face.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-bodhisattva-hands.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-bodhisattva-full.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/huayan-bojia-bodhisattva-dizang.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/huayan-bojia-bodhisattva-dizang.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/huayan-bodhisattva-hands.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/huayan-bodhisattva-face.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 13,
+          "id": "huayan-14-bicang-and-ending",
+          "title": "壁藏天宫楼阁与结尾",
+          "time": "29:41-32:52",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/huayan-couplet-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-upper-couplet.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-caisson-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/huayan-couplet-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/huayan-couplet-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/huayan-lower-front.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/huayan-upper-couplet.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/huayan-bojia-caisson.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "siteIndex": 3,
+      "siteName": "云冈石窟",
+      "chapters": [
+        {
+          "chapterIndex": 0,
+          "id": "yungang-01-overview-route",
+          "title": "总览、入园与反向游览路线",
+          "time": "09:00-15:00",
+          "pageCount": 9,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yungang-cave20-face-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "source-map",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yungang-cave5-main-buddha.jpg"
+              ]
+            },
+            {
+              "page": 9,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yungang-cave20-front.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 1,
+          "id": "yungang-02-northern-wei-background",
+          "title": "北魏平城、鲜卑与佛教复兴",
+          "time": "03:00-09:00",
+          "pageCount": 9,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yungang-cave16.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "source-map",
+              "images": [
+                "assets/images/reference/yungang-cave17.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave16.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave17.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yungang-cave16.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            },
+            {
+              "page": 9,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yungang-cave17.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 2,
+          "id": "yungang-03-cave-form-silk-road",
+          "title": "石窟形制与丝路传播",
+          "time": "15:00-18:00",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave12.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave9-dougong.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yungang-collapsed-cave-buddhas.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yungang-cave9-dougong.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 3,
+          "id": "yungang-04-tanyao-five-caves",
+          "title": "昙曜五窟与帝王即如来",
+          "time": "18:00-21:00",
+          "pageCount": 9,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yungang-cave20-face-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "source-map",
+              "images": [
+                "assets/images/reference/yungang-cave16.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave20-front.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave16.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave20-front.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yungang-cave20-face-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yungang-cave20-face-crop.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yungang-cave18.jpg"
+              ]
+            },
+            {
+              "page": 9,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yungang-cave19.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 4,
+          "id": "yungang-05-cave20",
+          "title": "第 20 窟露天大佛",
+          "time": "00:00-04:00",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yungang-cave20-face-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave20-front.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave20-oblique.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave20-face-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yungang-cave20-face-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yungang-cave20-face-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yungang-collapsed-cave-buddhas.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yungang-cave20-oblique.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 5,
+          "id": "yungang-06-caves19-18",
+          "title": "第 19/18 窟：击掌佛与千佛袈裟",
+          "time": "27:00-31:24",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yungang-cave19.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave19.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave18-detail-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave18-detail-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yungang-cave19.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yungang-cave19.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yungang-cave20-oblique.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yungang-cave18.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 6,
+          "id": "yungang-07-caves17-16",
+          "title": "第 17/16 窟：弥勒太子与太和改制",
+          "time": "04:00-08:00",
+          "pageCount": 9,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yungang-cave17.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "source-map",
+              "images": [
+                "assets/images/reference/yungang-cave17.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave17.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave16.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave16.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yungang-cave17.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yungang-cave17.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yungang-cave13-cross-legged.jpg"
+              ]
+            },
+            {
+              "page": 9,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yungang-cave16.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 7,
+          "id": "yungang-08-caves14-15",
+          "title": "第 14/15 窟与千佛洞",
+          "time": "08:00-12:00",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yungang-cave20-face-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave14-protective-building.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave15-thousand-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave15-thousand-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yungang-cave20-face-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yungang-cave15-thousand-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yungang-cave15-buddha.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 8,
+          "id": "yungang-09-caves11-13",
+          "title": "第 11/12/13 窟：中期洞窟与音乐窟",
+          "time": "16:00-20:00",
+          "pageCount": 9,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yungang-cave13-cross-legged.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "source-map",
+              "images": [
+                "assets/images/reference/yungang-cave17.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave13-cross-legged.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave12-musicians-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave12.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yungang-cave13-cross-legged.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yungang-cave12-musicians-crop.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yungang-cave13-cross-legged.jpg"
+              ]
+            },
+            {
+              "page": 9,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yungang-cave12.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 9,
+          "id": "yungang-10-caves9-10-protection",
+          "title": "五华洞、第 9/10 窟与洞窟保护",
+          "time": "24:00-28:00",
+          "pageCount": 9,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yungang-cave9-dougong-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "source-map",
+              "images": [
+                "assets/images/reference/yungang-cave9-dougong-crop.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave9-dougong-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave9-dougong-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave9-dougong.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yungang-cave9-dougong-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yungang-cave9-dougong-crop.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yungang-cave12.jpg"
+              ]
+            },
+            {
+              "page": 9,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yungang-overview-caves.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 10,
+          "id": "yungang-11-caves7-8-flying-apsaras",
+          "title": "第 7/8 窟、博山炉、思维菩萨与飞天",
+          "time": "28:00-32:00",
+          "pageCount": 9,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yungang-cave7-apsaras.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "source-map",
+              "images": [
+                "assets/images/reference/yungang-cave7-apsaras.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave7-apsaras.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave7-apsaras.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave7-apsaras.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yungang-cave7-apsaras.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yungang-cave7-apsaras.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yungang-cave13-cross-legged.jpg"
+              ]
+            },
+            {
+              "page": 9,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yungang-cave12-musicians.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 11,
+          "id": "yungang-12-caves5-6",
+          "title": "第 5/6 窟：最高佛像与佛传故事",
+          "time": "32:00-36:00",
+          "pageCount": 9,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yungang-cave6-stupa-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "source-map",
+              "images": [
+                "assets/images/reference/yungang-cave6-stupa-crop.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave6-stupa-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave5-main-buddha.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave6-stupa-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yungang-cave6-stupa-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yungang-cave6-stupa-crop.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yungang-cave5-side-view.jpg"
+              ]
+            },
+            {
+              "page": 9,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yungang-cave6-interior.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 12,
+          "id": "yungang-13-caves3-1-2-ending",
+          "title": "第 3/1/2 窟与中期石窟总结",
+          "time": "36:00-40:07",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/yungang-cave12-musicians-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave3-space.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave2.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/yungang-cave1.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/yungang-cave3-space.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/yungang-cave2.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/yungang-cave1.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/yungang-cave2.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "siteIndex": 4,
+      "siteName": "悬空寺",
+      "chapters": [
+        {
+          "chapterIndex": 0,
+          "id": "xuankong-01-opening-four-questions",
+          "title": "开场：悬空寺热度与四个问题",
+          "time": "00:00-01:20",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/xuankong-full.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-full.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-full.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-full.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/xuankong-full.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/xuankong-full.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/xuankong-2019-front.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/xuankong-overview-2013.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 1,
+          "id": "xuankong-02-date-and-origin-puzzle",
+          "title": "始建时间与建寺原因之谜",
+          "time": "01:20-02:10",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/xuankong-corridor-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-overview-2013.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-historic-public-domain.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-full.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/xuankong-corridor-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/xuankong-overview-2013.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/xuankong-full.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/xuankong-historic-public-domain.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 2,
+          "id": "xuankong-03-northern-wei-feihu-road",
+          "title": "北魏战争、飞狐道与栈道遗迹",
+          "time": "02:10-04:39",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/xuankong-corridor-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-overview-2013.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-overview-2013.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-panoramio-angle.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/xuankong-overview-2013.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/xuankong-overview-2013.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/xuankong-cliff-detail-2013.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/xuankong-overview-2013.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 3,
+          "id": "xuankong-04-xuankongge-to-three-teachings",
+          "title": "从玄空阁到悬空寺",
+          "time": "04:39-06:08",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/xuankong-corridor-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-historic-public-domain.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-overview-2013.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-close.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/xuankong-corridor-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/xuankong-overview-2013.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/xuankong-close.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/xuankong-panoramio-close.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 4,
+          "id": "xuankong-05-layout-south-north-towers",
+          "title": "南北楼、飞桥与百米深谷",
+          "time": "06:08-07:18",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/xuankong-front-bridge-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-front-bridge-crop.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-front-bridge-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-overview-2013.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/xuankong-front-bridge-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/xuankong-front-bridge-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/xuankong-overview-2013.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/xuankong-panoramio-front.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 5,
+          "id": "xuankong-06-hanging-construction-technique",
+          "title": "悬吊施工与楔形木桩技术",
+          "time": "07:18-09:40",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/xuankong-pillars-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-close.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-full.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-detail.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/xuankong-pillars-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/xuankong-pillars-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/xuankong-close.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/xuankong-cliff-detail-2013.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 6,
+          "id": "xuankong-07-pillars-and-zhuangguan",
+          "title": "细立柱、老照片与“壮观”题刻",
+          "time": "09:40-10:50",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/xuankong-zhuangguan-inscription.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-pillars-crop.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-historic-public-domain.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-zhuangguan-inscription.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/xuankong-zhuangguan-inscription.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/xuankong-zhuangguan-inscription.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/xuankong-close.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/xuankong-detail.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 7,
+          "id": "xuankong-08-li-bai-legend-check",
+          "title": "李白传说与《夜宿山寺》考辨",
+          "time": "10:50-13:22",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/xuankong-zhuangguan-inscription.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-zhuangguan-inscription.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-zhuangguan-inscription.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-historic-public-domain.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/xuankong-zhuangguan-inscription.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/xuankong-zhuangguan-inscription.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/xuankong-full.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/xuankong-overview-2013.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 8,
+          "id": "xuankong-09-inscriptions-and-gong-kong-yan",
+          "title": "“腾云归梦”与”宫空岩”",
+          "time": "13:22-15:13",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/xuankong-historic-public-domain.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-historic-public-domain.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-panoramio-close.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-close.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/xuankong-panoramio-close.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/xuankong-panoramio-close.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/xuankong-close.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/xuankong-panoramio-close.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 9,
+          "id": "xuankong-10-chunyang-palace-lu-dongbin",
+          "title": "纯阳宫、吕洞宾与全真五祖",
+          "time": "15:13-17:05",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/xuankong-corridor-crop.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-corridor-crop.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-corridor-crop.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-corridor-crop.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/xuankong-corridor-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/xuankong-corridor-crop.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/xuankong-historic-public-domain.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/xuankong-2019-front.jpg"
+              ]
+            }
+          ]
+        },
+        {
+          "chapterIndex": 10,
+          "id": "xuankong-11-sanguan-hall-ending",
+          "title": "三官殿、金代碑与结尾",
+          "time": "17:05-19:03",
+          "pageCount": 8,
+          "pages": [
+            {
+              "page": 1,
+              "type": "archive",
+              "images": [
+                "assets/images/reference/xuankong-full.jpg"
+              ]
+            },
+            {
+              "page": 2,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-full.jpg"
+              ]
+            },
+            {
+              "page": 3,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-historic-public-domain.jpg"
+              ]
+            },
+            {
+              "page": 4,
+              "type": "spotlight",
+              "images": [
+                "assets/images/reference/xuankong-full.jpg"
+              ]
+            },
+            {
+              "page": 5,
+              "type": "diagram",
+              "images": [
+                "assets/images/reference/xuankong-corridor-crop.jpg"
+              ]
+            },
+            {
+              "page": 6,
+              "type": "image",
+              "images": [
+                "assets/images/reference/xuankong-2019-front.jpg"
+              ]
+            },
+            {
+              "page": 7,
+              "type": "verify",
+              "images": [
+                "assets/images/reference/xuankong-2019-front.jpg"
+              ]
+            },
+            {
+              "page": 8,
+              "type": "shots",
+              "images": [
+                "assets/images/reference/xuankong-full.jpg"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
